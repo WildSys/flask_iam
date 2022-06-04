@@ -1,7 +1,7 @@
 # flask_iam
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE)
-[![GitHub latest tag](https://img.shields.io/github/v/tag/WildSys/flask_iam?sort=semver)](./LICENSE)
+![GitHub latest tag](https://img.shields.io/github/v/tag/WildSys/flask_iam?sort=semver)
 
 The `flask_iam` python project is a suggestion to implement Identity Access Management globally in a Flask application.
 
