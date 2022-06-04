@@ -1,0 +1,3 @@
+[flake8]
+ignore = D,E501
+exclude = migrations/versions

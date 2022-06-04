@@ -1,0 +1,10 @@
+.python-version
+.env
+
+build
+
+*.sw?
+*.log
+*.pyc
+*.old
+*.egg-info
